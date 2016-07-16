@@ -1,0 +1,8 @@
+.places{
+     width: 800px;
+    border : 2px dashed;
+    margin: 5px auto 20px auto;
+    padding: 0px 0px 10px 10px;
+    font-size: 14pt;
+    background-color: #80ff00;
+}

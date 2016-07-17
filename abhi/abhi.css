@@ -29,13 +29,4 @@ a{
 }
 
 .intro{
-     width: 800px;
-    border : 2px dashed;
-    margin: 5px auto 20px auto;
-    padding: 0px 0px 10px 10px;
-    font-size: 14pt;
-    background-image: url(images/black.jpg);
-    color: white;
-    opacity: 1.6;
-    font-size: 16pt;
-}
+

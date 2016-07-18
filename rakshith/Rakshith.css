@@ -11,6 +11,9 @@ h1 {
 }
 p{
   color: orange;
-  text-decoration: overline
+}
+h2{
+    text-decoration: underline;
+
 }
 

@@ -1,0 +1,20 @@
+html
+<head>
+</head>
+
+<body>
+
+<h1> Hi im Arnav </h1>
+   <p> Hi im Arnav. My interests are Lego and animals.I like reading,swimming and playing outside</p>
+
+<h3> Favorite Books</h3>
+   <li>Star wars the force awakens novel</li>
+   <li>Origami yoda series</li>
+   <li>Dinosaur encyclopedia</li>
+
+<h3> Favorite places to go </h3>
+  <ol> Sea life Aquarium</ol>
+  <ol> Legoland</ol>
+  <ol> Cedar point</ol>
+  <ol> Disney land</ol>
+</body>

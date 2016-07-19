@@ -15,6 +15,7 @@ h1 {
     border: 3px dashed #009999;
     margin 10px 5px 10px 5px;
     width: 100px;
+    text-decoration: overline;
 }
 
 h2 {

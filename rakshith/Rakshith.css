@@ -19,6 +19,9 @@ body{
     background-image:url(html_pictures/Earth.png)
 
 }
-ul,ol{
+ol{
+    color:orangered
+}
+ul{
     color:orangered
 }

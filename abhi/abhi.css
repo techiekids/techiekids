@@ -39,3 +39,7 @@ a{
     font-size: 16pt;
 }
 
+h1.header {
+    text-decoration: underline;
+}
+

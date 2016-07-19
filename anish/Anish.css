@@ -8,6 +8,7 @@ body {
     margin : 20px auto 20px auto;
     background-image: url(deadpool.jpg);
     background-repeat: repeat;
+    color: lightgreen;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
     border: 3px dashed #009999;
     margin 10px 5px 10px 5px;
     width: 100px;
+    text-decoration: overline;
 }
 
 h2 {

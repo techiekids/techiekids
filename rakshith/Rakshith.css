@@ -4,9 +4,24 @@ html, body, h1, h2, p, ul, ol {
 }
 
 h1 {
-    padding: 20px 5px 5px 20px;
-    border: 5px solid red;
-    width: 150px;
-    margin: 5px 0 25px 0;
+  color:forestgreen
 }
+p{
+  color: orange;
+}
+h2{
+    text-decoration: underline;
+    border-bottom: 1px solid #CCCCCC;
+    color:yellow;
+background-repeat: no-repeat;
+}
+body{
+    background-image:url(html_pictures/Earth.png)
 
+}
+ol{
+    color:orangered
+}
+ul{
+    color:orangered
+}

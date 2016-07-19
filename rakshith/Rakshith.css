@@ -1,0 +1,27 @@
+html, body, h1, h2, p, ul, ol {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+h1 {
+  color:forestgreen
+}
+p{
+  color: orange;
+}
+h2{
+    text-decoration: underline;
+    border-bottom: 1px solid #CCCCCC;
+    color:yellow;
+background-repeat: no-repeat;
+}
+body{
+    background-image:url(html_pictures/Earth.png)
+
+}
+ol{
+    color:orangered
+}
+ul{
+    color:orangered
+}

@@ -6,6 +6,6 @@ h2 {
     width: 95px;
 }
 body {
-    background-image: url(Galaxy%20Cat.jpg);
-    background-size: auto
+    background-image: url(Galaxy%20Cat.png);
+    background-size: cover
 }

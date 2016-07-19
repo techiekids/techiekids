@@ -4,7 +4,7 @@ html, body, h1, h2, p, ul, ol {
 }
 
 h1 {
-
+  color:forestgreen
 }
 p{
   color: orange;
@@ -12,9 +12,13 @@ p{
 h2{
     text-decoration: underline;
     border-bottom: 1px solid #CCCCCC;
+    color:orangered
 
 }
 body{
     background-image:url(html_pictures/Earth.png)
 
+}
+ul{
+    color:orangered
 }

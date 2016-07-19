@@ -6,8 +6,9 @@ html, body, h1, h2, ol, ul, p {
 body {
     width: 800px;
     margin : 20px auto 20px auto;
-    background-image: url(deadpool.jpg);
+    background-image: url(Deadpool%202.jpg);
     background-repeat: repeat;
+    color: lightgreen;
 }
 
 h1 {

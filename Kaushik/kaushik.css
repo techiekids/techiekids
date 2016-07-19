@@ -2,10 +2,10 @@ ul, h2,p, h1 {
    color:floralwhite;
 }
 h2 {
-   border-bottom: 7px solid #00FA9A
+   border-bottom: 7px solid #00FA9A;
+    width: 95px;
 }
 body {
-    background-image: url(background.png);
-    background-position: top left;
-    background-repeat: repeat
+    background-image: url(Galaxy%20Cat.png);
+    background-size: cover
 }

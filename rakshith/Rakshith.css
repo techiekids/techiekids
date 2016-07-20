@@ -12,8 +12,8 @@ p{
 h2{
     text-decoration: underline;
     border-bottom: 1px solid #CCCCCC;
-    color:yellow
-
+    color:yellow;
+background-repeat: no-repeat;
 }
 body{
     background-image:url(html_pictures/Earth.png)

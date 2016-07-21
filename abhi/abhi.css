@@ -14,7 +14,7 @@ h1{
 body{
     background :white;
     margin-top: 30px;
-    background-image: url(images/blueprint.jpeg)
+    background-image: url(images/red.jpg)
 }
 
 p{
@@ -24,7 +24,7 @@ p{
 
 a{
 
-  color: greenyellow;
+  color: orange;
 
 }
 
@@ -34,8 +34,8 @@ a{
     margin: 5px auto 20px auto;
     padding: 0px 0px 10px 10px;
     font-size: 14pt;
-    background-image: url(images/fire.jpg);
-    color: white;
+    background-image: url(images/black.jpg);
+    color: lightcyan;
     opacity: 1.6;
     font-size: 16pt;
 }

@@ -14,7 +14,7 @@ h1{
 body{
     background :white;
     margin-top: 30px;
-    background-image: url(images/dragon.jpg)
+    /*background-image: url(images/dragon.jpg) */
 }
 
 p{
@@ -42,5 +42,13 @@ a{
 
 h1.header {
     text-decoration: underline;
+}
+
+ul.nav li {
+    display: inline;
+}
+
+ul {
+    margin-left: 10px;
 }
 

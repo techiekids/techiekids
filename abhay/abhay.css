@@ -13,10 +13,15 @@ body {
 }
 
 h2 {
+    margin-left: 40px;
     color:gold
 }
 
 li {
-    margin-left: 20px;
+    margin-left: 50px;
     color: aquamarine
+}
+
+head {
+    color: gold
 }

@@ -25,3 +25,10 @@ ol{
 ul{
     color:orangered
 }
+.header{
+    padding: 10px 10px 10px 10px;
+    backround-color: #b56663
+}
+a{
+    color: aqua
+}

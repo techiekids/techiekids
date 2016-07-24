@@ -14,7 +14,7 @@ h1{
 body{
     background :white;
     margin-top: 30px;
-    background-image: url(images/moon.jpg)
+    background-image: url(images/red.jpg)
 }
 
 p{
@@ -24,7 +24,7 @@ p{
 
 a{
 
-  color: greenyellow;
+  color: orange;
 
 }
 
@@ -35,12 +35,20 @@ a{
     padding: 0px 0px 10px 10px;
     font-size: 14pt;
     background-image: url(images/black.jpg);
-    color: white;
+    color: lightcyan;
     opacity: 1.6;
     font-size: 16pt;
 }
 
 h1.header {
     text-decoration: underline;
+}
+
+ul.nav li {
+    display: inline;
+}
+
+ul {
+    margin-left: 10px;
 }
 

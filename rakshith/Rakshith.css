@@ -16,7 +16,7 @@ h2{
 background-repeat: no-repeat;
 }
 body{
-    background-image:url(html_pictures/Earth.png)
+
 
 }
 ol{
@@ -30,5 +30,7 @@ ul{
     backround-color: #b56663
 }
 a{
-    color: aqua
+    color: aqua;
+    text-decoration: none;
+    color: white
 }

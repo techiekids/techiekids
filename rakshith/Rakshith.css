@@ -6,6 +6,7 @@ html, body, h1, h2, p, ul, ol {
 h1 {
   text-align: center;
     color: white;
+    padding-bottom: 7px;
 }
 p{
   color: orange;
@@ -33,6 +34,4 @@ ul{
 .header a{
     text-decoration: none;
     color: white;
-    text-align: center;
-
 }

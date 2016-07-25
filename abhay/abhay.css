@@ -1,4 +1,4 @@
-head, h1, {
+h1 {
     text-align: center;
     color: deepskyblue
 }
@@ -20,8 +20,4 @@ h2 {
 li {
     margin-left: 50px;
     color: aquamarine
-}
-
-head {
-    color: gold
-}
+    }

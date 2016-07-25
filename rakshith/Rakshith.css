@@ -4,7 +4,7 @@ html, body, h1, h2, p, ul, ol {
 }
 
 h1 {
-  color:forestgreen
+  text-align: center;
 }
 p{
   color: orange;
@@ -34,3 +34,4 @@ a{
     text-decoration: none;
     color: white
 }
+

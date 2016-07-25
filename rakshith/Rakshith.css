@@ -30,11 +30,9 @@ ul{
     padding: 10px 10px 10px 10px;
     background-color: #b56663;
 }
-a{
-    color: aqua;
+.header a{
     text-decoration: none;
     color: white;
-    margin: 0 auto 0 auto;
     text-align: center;
-}
 
+}

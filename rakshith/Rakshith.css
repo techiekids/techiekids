@@ -5,6 +5,7 @@ html, body, h1, h2, p, ul, ol {
 
 h1 {
   text-align: center;
+    color: white;
 }
 p{
   color: orange;

@@ -14,7 +14,7 @@ h1{
 body{
     background :white;
     margin-top: 30px;
-    background-image: url(images/red.jpg)
+    background-image: url(images/Harry.jpg)
 }
 
 p{
@@ -24,7 +24,7 @@ p{
 
 a{
 
-  color: orange;
+  color: white;
 
 }
 
@@ -34,10 +34,10 @@ a{
     margin: 5px auto 20px auto;
     padding: 0px 0px 10px 10px;
     font-size: 14pt;
-    background-image: url(images/black.jpg);
     color: lightcyan;
     opacity: 1.6;
     font-size: 16pt;
+    height: 400px;
 }
 
 h1.header {
@@ -46,6 +46,7 @@ h1.header {
 
 ul.nav li {
     display: inline;
+    text-align: center;
 }
 
 ul {

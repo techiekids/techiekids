@@ -1,10 +1,14 @@
 html, body, h1, h2, p, ul, ol {
     margin: 0 0 0 0;
     padding: 0 0 0 0;
+    font-size: 100%;
+    font:inherit;
 }
 
 h1 {
-  color:forestgreen
+  text-align: center;
+    color: white;
+    padding-bottom: 7px;
 }
 p{
   color: orange;
@@ -16,12 +20,20 @@ h2{
 background-repeat: no-repeat;
 }
 body{
-    background-image:url(html_pictures/Earth.png)
 
+font-family: Helvetica,Damascus
 }
 ol{
     color:orangered
 }
 ul{
     color:orangered
+}
+.header{
+    padding: 10px 10px 10px 10px;
+    background-color: #b56663;
+}
+.header a{
+    text-decoration: none;
+    color: white;
 }

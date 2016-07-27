@@ -1,0 +1,36 @@
+.header{
+    background: maroon;
+    margin: 20 20 20 20;
+    padding: 10 0 10 0;
+    border: 1px soild black;
+    color: antiquewhite;
+}
+
+
+
+body {
+    background-image: url(lion.jpg);
+}
+
+
+
+
+h2 {
+   text-margin: 30 0 30 0;
+   color: Blue;
+   }
+
+ul li{
+  color : black;
+  text-margin: 20 0 20 0;
+     }
+
+ol li{
+    color : black;
+    text-margin: 20 0 20 0;
+}
+
+p {
+  text-margin: 0 20 0 0;
+  color : black;
+  }

@@ -1,3 +1,11 @@
-ul.nav li {
-    display: inline;
+.form{
+    width: 800px;
+    border : 2px dashed;
+    margin: 5px auto 20px auto;
+    padding: 0px 0px 10px 10px;
+    font-size: 14pt;
+    color: lightcyan;
+    opacity: 1.6;
+    font-size: 16pt;
+    height: 400px;
 }

@@ -21,8 +21,9 @@ h2{
 background-repeat: no-repeat;
 }
 body{
-
-font-family: Helvetica,Damascus
+background-image: url(Assets/gray.png);
+font-family: Helvetica,Damascus;
+background-repeat: repeat
 }
 ol{
     color:orangered
@@ -44,3 +45,4 @@ input{
 label{
     font-size: 24px;
 }
+

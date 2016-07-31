@@ -14,12 +14,40 @@
 <a href="Rakshith.html"> Home </a>
 </center>
 </div>
+    <label>Gender</label>
+    <br>
+<input type="radio" name="Gender" value="Male"> Male
+    <br>
+    <input type="radio" name="Gender" value="Female"> Female
+    <br>
+    <input type="radio" name="Gender" value="Other"> Other
+    <br>
 <label>First Name</label>
-<input type="text">
-<label> Last Name </label>
-<input type="text">
+<input type="text" name="First_name" placeholder="Enter your first name..." required>
+    <br>
+    <label> Last Name </label>
+<input type="text" name="Last_name" placeholder="Enter your last name..."required>
+    <br>
+    <label>Email</label>
+    <input type="email" name="Email" placeholder="Enter your email..." required>
+    <br>
 <label> Information </label>
-    <textarea id=Info></textarea>
-    <label>Is This Good?</label>
-    <input type="checkbox">
+    <textarea id=Info placeholder="Enter Information..."></textarea>
+    <br>
+
+    <label> How would you rate my website?</label>
+    <br>
+     <form>
+    <input type="radio" name="stars" value="*****">*****<br>
+     <input type="radio" name="stars" value="****">****<br>
+    <input type="radio" name="stars" value="***">***<br>
+    <input type="radio" name="stars" value="**">**<br>
+    <input type="radio" name="stars" value="*">*<br>
+
+</form>
+
+
+
     <input type="submit" id="Tell Us">
+    </body>
+</html>

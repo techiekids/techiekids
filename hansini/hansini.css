@@ -1,0 +1,17 @@
+h1 {
+  color : e6b3ff;
+   background:white
+}
+
+h2 {
+   font-size : 28px;
+   color : 00ffff;
+}
+p{
+  color:e6b3ff
+}
+body{
+  color:cc66ff;
+  background:white;
+  background-image: url(background.gif);
+}

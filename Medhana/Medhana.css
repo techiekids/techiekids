@@ -3,6 +3,7 @@ color:#3333ff;
 }
 p{
 color: white;
+    display: inline;
 }
 ol{
 padding-left: 500px;
@@ -20,6 +21,7 @@ padding-left: 500px;
 
 color:#00997a ;
 }
-a hover{
-    color: deepskyblue;
-    }
+a{
+    display: inline;
+    color: #ff0066;
+}

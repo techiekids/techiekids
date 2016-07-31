@@ -44,7 +44,7 @@ h1.header {
     text-decoration: underline;
 }
 
-ul .nav li{
+nav li{
     display: inline;
     text-align: center;
 }

@@ -1,4 +1,4 @@
-head, h1, {
+h1 {
     text-align: center;
     color: deepskyblue
 }
@@ -12,7 +12,12 @@ body {
     background-image: url("http://4.bp.blogspot.com/-JvdMJvWXAqw/UZo2i8uHBsI/AAAAAAAAA9g/ocXl0qetuPI/s1600/vandrie_fire.gif");
 }
 
-li {
-    margin-left: 20px;
-    color: aquamarine
+h2 {
+    margin-left: 40px;
+    color:gold
 }
+
+li {
+    margin-left: 50px;
+    color: aquamarine
+    }

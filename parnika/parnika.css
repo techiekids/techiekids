@@ -1,12 +1,17 @@
+<style>
+
 h1 {
   color : 1aff1a;
   background : black;
 }
 
 body {
-   background-image: url(picture_big.jpg);
-    background-repeat: repeat;
-   color:1aff1a
+background : black;
+color:1aff1a;
+background-image:url("newbackim.jpg");
+background-size:1200px 1000px;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 h2 {
@@ -14,6 +19,10 @@ h2 {
    color : blue;
 }
 p{
-color:black;
-font-size:28px;
+color:blue
 }
+nav{
+    color:#66ffff;
+}
+</style>
+

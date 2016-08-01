@@ -9,6 +9,8 @@ body {
     background-image: url(deadpool.jpg);
     background-repeat: repeat;
     color: #0000ff;
+    background-image: url(N.gif);
+    color: white;
 }
 
 h1 {
@@ -31,4 +33,8 @@ ul, ol {
 
 p {
     margin-left: 10px;
+
 }
+
+
+

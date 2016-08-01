@@ -24,20 +24,20 @@ p{
 
 a{
 
-  color: white;
+  color: greenyellow;
 
 }
 
 .intro{
-    width: 800px;
+    width: 800;
     border : 2px dashed;
     margin: 5px auto 20px auto;
     padding: 0px 0px 10px 10px;
     font-size: 14pt;
-    color: lightcyan;
+    background-image: url(images/red.jpg);
+    color: white;
     opacity: 1.6;
     font-size: 16pt;
-    height: 400px;
 }
 
 h1.header {
@@ -45,9 +45,8 @@ h1.header {
     text-align: center;
 }
 
-nav li{
+ul.nav li {
     display: inline;
-    text-align: center;
 }
 
 ul {

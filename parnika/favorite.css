@@ -1,3 +1,4 @@
+<style>
 h1 {
   color :#b300b3;
    background:white;
@@ -13,6 +14,6 @@ p{
 body{
   color:cc66ff;
   background:white;
-  background-image: url(backgrond.jpg);
-    background-size: 1300px 1000px
-}
+  background-image: url(favorite.jpg);
+</style>
+

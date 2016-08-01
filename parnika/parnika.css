@@ -6,8 +6,12 @@ h1 {
 }
 
 body {
-   background : black;
-   color:1aff1a
+background : black;
+color:1aff1a;
+background-image:url("p_images.jpg");
+background-size:1300px 1000px;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 h2 {
@@ -17,6 +21,8 @@ h2 {
 p{
 color:blue
 }
-background-image:url(p_images.jpg);
+nav{
+    color:#66ffff;
+}
+</style>
 
-</style>e>

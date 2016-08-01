@@ -1,0 +1,20 @@
+body {
+   background-image : url(SravyaPicture.jpg);
+
+}
+
+h1 {
+   color : #ff0080;
+}
+
+p {
+  color : lightblue;
+}
+
+li {
+   color : turquoise;
+}
+
+h2 {
+   color : deeppink;
+}

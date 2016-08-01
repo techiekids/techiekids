@@ -1,0 +1,36 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="hansini.css"
+</head>
+
+
+<body>
+<h1>All About Hansini</h1>
+<img src="C:\Users\Venuma\Downloads\artim.jpg"></img>
+<p>My name is Hansini ! I like to make crafts.When i grow up i want to be a pediatrition. A pediatrition is a doctor for kids.</p>
+<h2>My Hobbies</h2>
+<ul>
+<li>Arts and Crafts</li>
+<li>Bike</li>
+<li>Sing</li>
+</ul>
+<h2>My Favorite Food</h2>
+<ul>
+<li>French Fries</li>
+<li>Mac and Cheese</li>
+<li>Mushroom Pizza</li>
+</ul>
+<h2>My Favorite Sports</h2>
+<ul>
+<li>biking</li>
+<li>Rock Climbing</li>
+<li>Gymnastics</li>
+</ul>
+<h2>My Favorite Games</h2>
+<li>Life</li>
+<li>Card Games</li>
+<li>Fibber</li>
+</ul>
+</body>
+</html>

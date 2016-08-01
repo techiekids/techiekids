@@ -13,5 +13,6 @@ p{
 body{
   color:cc66ff;
   background:white;
-  background-image: url(newbackgroundimage.jpg);
+  background-image: url(backgrond.jpg);
+    background-size: 1300px 1000px
 }

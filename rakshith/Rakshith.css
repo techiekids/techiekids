@@ -56,3 +56,11 @@ label{
     text-decoration: none;
     color: red;
 }
+textarea{
+    width: 500px;
+    height: 400px;
+    font-size: 20px;
+}
+.Contact label{
+    border-bottom: 12px;
+}

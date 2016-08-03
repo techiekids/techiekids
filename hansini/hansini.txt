@@ -1,0 +1,22 @@
+<style>
+
+h1 {
+  color : 1aff1a;
+  background : black;
+}
+
+body {
+   background : black;
+   color:1aff1a
+}
+
+h2 {
+   font-size : 28px;
+   color : blue;
+}
+p{
+color:blue
+}
+background-image:url(p_images.jpg);
+
+</style>

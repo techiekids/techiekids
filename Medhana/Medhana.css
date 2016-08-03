@@ -2,19 +2,17 @@ h1{
 color:#3333ff;
 }
 p{
-color: white;
+color: blueviolet;
     display: inline;
 }
 ol{
-padding-left: 500px;
 color: #006600;
 }
 ul{
-padding-left: 500px;
 color: #006600;
 }
 body{
-background-color: #003329;
+    background-image: url(electron.gif)
 }
 h2{
 padding-left: 500px;
@@ -23,5 +21,5 @@ color:#00997a ;
 }
 a{
     display: inline;
-    color: #ff0066;
+    color: white;
 }

@@ -64,3 +64,11 @@ textarea{
 .Contact label{
     border-bottom: 12px;
 }
+.movies-yellow {
+    color: yellow;
+    display: inline;
+}
+.hobbies-yellow {
+    color: yellow;
+    display: inline;
+}

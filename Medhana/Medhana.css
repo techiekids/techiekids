@@ -14,7 +14,9 @@ color: #006600;
      padding-left: 500px
 }
 body{
-    background-image: url(electron.gif)
+    background-image:url(electron.gif);
+    background-repeat:no-repeat;
+       background-size: 4000px 5000px;
 }
 h2{
 padding-left: 500px;

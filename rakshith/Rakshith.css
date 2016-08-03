@@ -9,7 +9,8 @@ h1 {
   text-align: center;
     color: white;
     padding-bottom: 7px;
-    font-size: 24px:
+    font-size: 30px:
+
 }
 p{
   color: orange;
@@ -21,9 +22,10 @@ h2{
 background-repeat: no-repeat;
 }
 body{
-background-image: url(Assets/gray.png);
+background-image: url(Assets/lights.gif);
 font-family: Helvetica,Damascus;
-background-repeat: repeat
+background-repeat: repeat;
+    color:white;
 }
 ol{
     color:orangered
@@ -38,6 +40,7 @@ ul{
 .header a{
     text-decoration: none;
     color: white;
+    font-size: 15px;
 }
 input{
     font-size: 24px;
@@ -45,4 +48,27 @@ input{
 label{
     font-size: 24px;
 }
-
+.games a{
+    text-decoration:none;
+    color:red;
+}
+.movies a{
+    text-decoration: none;
+    color: red;
+}
+textarea{
+    width: 500px;
+    height: 400px;
+    font-size: 20px;
+}
+.Contact label{
+    border-bottom: 12px;
+}
+.movies-yellow {
+    color: yellow;
+    display: inline;
+}
+.hobbies-yellow {
+    color: yellow;
+    display: inline;
+}

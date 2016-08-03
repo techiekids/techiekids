@@ -3,9 +3,22 @@ h1 {
     color: deepskyblue
 }
 
+.heading {
+    color:aquamarine
+}
+
 p {
-    text-align: center;
-    color: blue
+    text-align:center;
+    padding-left: 100px;
+    color:aliceblue;
+    border-style: solid; border-width:medium; border-color: #FFFFFF;
+    border-style:ridge;
+    border-color:firebrick;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px
+    font-style: oblique
+
 }
 
 body {

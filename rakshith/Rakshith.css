@@ -24,8 +24,10 @@ background-repeat: no-repeat;
 body{
 background-image: url(Assets/lights.gif);
 font-family: Helvetica,Damascus;
-background-repeat: repeat;
+background-repeat: no-repeat;
     color:white;
+    background-
+
 }
 ol{
     color:orangered

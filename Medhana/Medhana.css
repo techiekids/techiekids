@@ -2,14 +2,16 @@ h1{
 color:#3333ff;
 }
 p{
-color: blueviolet;
+color: lightpink;
     display: inline;
 }
 ol{
 color: #006600;
+    padding-left: 500px
 }
 ul{
 color: #006600;
+     padding-left: 500px
 }
 body{
     background-image: url(electron.gif)

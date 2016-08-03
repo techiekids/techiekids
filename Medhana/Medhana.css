@@ -4,6 +4,7 @@ color:#3333ff;
 p{
 color: white;
     display: inline;
+    background-image: url(rainbow%20gif.jpg)
 }
 ol{
 padding-left: 500px;
@@ -15,6 +16,7 @@ color: #006600;
 }
 body{
 background-color: #003329;
+    background-image: url(gif.jpg)
 }
 h2{
 padding-left: 500px;

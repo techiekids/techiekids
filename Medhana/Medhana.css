@@ -4,20 +4,15 @@ color:#3333ff;
 p{
 color: blueviolet;
     display: inline;
-    text-emphasis-color: aliceblue:
-        border: 1px dashed purple;
 }
 ol{
-padding-left: 500px;
 color: #006600;
 }
 ul{
-padding-left: 500px;
 color: #006600;
 }
 body{
-background-color: #003329;
-    background-image: url()
+    background-image: url(electron.gif)
 }
 h2{
 padding-left: 500px;

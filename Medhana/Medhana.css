@@ -2,9 +2,10 @@ h1{
 color:#3333ff;
 }
 p{
-color: white;
+color: blueviolet;
     display: inline;
-    background-image: url(rainbow%20gif.jpg)
+    text-emphasis-color: aliceblue:
+        border: 1px dashed purple;
 }
 ol{
 padding-left: 500px;
@@ -16,7 +17,7 @@ color: #006600;
 }
 body{
 background-color: #003329;
-    background-image: url(gif.jpg)
+    background-image: url()
 }
 h2{
 padding-left: 500px;
@@ -25,5 +26,4 @@ color:#00997a ;
 }
 a{
     display: inline;
-    color: #ff0066;
 }

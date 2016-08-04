@@ -2,19 +2,20 @@ h1{
 color:#3333ff;
 }
 p{
-color: white;
+color: lightpink;
     display: inline;
 }
 ol{
-padding-left: 500px;
 color: #006600;
+    padding-left: 500px
 }
 ul{
-padding-left: 500px;
 color: #006600;
+     padding-left: 500px
 }
 body{
-background-color: #003329;
+    background-image:url(electron.gif);
+    background-size: 1050px 1000px;
 }
 h2{
 padding-left: 500px;
@@ -23,5 +24,8 @@ color:#00997a ;
 }
 a{
     display: inline;
-    color: #ff0066;
+    color: white;
+}
+h1{
+    background: #9900cc;
 }

@@ -24,8 +24,12 @@ background-repeat: no-repeat;
 body{
 background-image: url(Assets/lights.gif);
 font-family: Helvetica,Damascus;
-background-repeat: repeat;
+background-repeat: no-repeat;
     color:white;
+    background-size: 1500px 1000px
+
+
+
 }
 ol{
     color:orangered
@@ -55,4 +59,20 @@ label{
 .movies a{
     text-decoration: none;
     color: red;
+}
+textarea{
+    width: 500px;
+    height: 400px;
+    font-size: 20px;
+}
+.Contact label{
+    border-bottom: 12px;
+}
+.movies-yellow {
+    color: yellow;
+    display: inline;
+}
+.hobbies-yellow {
+    color: yellow;
+    display: inline;
 }

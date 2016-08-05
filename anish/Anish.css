@@ -33,7 +33,14 @@ ul, ol {
 
 p {
     margin-left: 10px;
+}
 
+div.hobbies {
+    background-color: aqua;
+}
+
+div.movies {
+    background-color: rebeccapurple;
 }
 
 

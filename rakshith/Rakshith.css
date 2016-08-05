@@ -8,8 +8,10 @@ html, body, h1, h2, p, ul, ol {
 h1 {
   text-align: center;
     color: white;
-    padding-bottom: 7px;
-    font-size: 30px:
+    padding-bottom: 10px;
+    font-size: 25px;
+        font-weight: bold;
+
 
 }
 p{
@@ -24,9 +26,9 @@ background-repeat: no-repeat;
 body{
 background-image: url(Assets/lights.gif);
 font-family: Helvetica,Damascus;
-background-repeat: no-repeat;
+background-repeat: repeat;
     color:white;
-    background-size: 1500px 850px
+
 
 
 

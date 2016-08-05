@@ -9,7 +9,7 @@ h1 {
   text-align: center;
     color: white;
     padding-bottom: 10px;
-    font-size: 25px;
+    font-size: 30px;
         font-weight: bold;
 
 
@@ -18,10 +18,11 @@ p{
   color: orange;
 }
 h2{
-    text-decoration: underline;
+    text-decoration: none;
     border-bottom: 1px solid #CCCCCC;
-    color:yellow;
-background-repeat: no-repeat;
+    color:white;
+
+    font-size: 25px;
 }
 body{
 background-image: url(Assets/lights.gif);
@@ -34,10 +35,10 @@ background-repeat: repeat;
 
 }
 ol{
-    color:orangered
+    color:orangered;
 }
 ul{
-    color:orangered
+    color:orangered;
 }
 .header{
     padding: 10px 10px 10px 10px;
@@ -72,17 +73,27 @@ textarea{
 }
 .movies-yellow {
     color: yellow;
-    display: inline;
+    display: block;
+padding: 10px;
 }
 .hobbies-yellow {
     color: yellow;
-    display: inline;
+    display: block;
+padding: 10px;
 }
 .games-yellow {
     color: yellow;
-    display: inline;
+    display: block;
+padding: 10px;
 }
 .books-yellow {
     color: yellow;
-    display: inline;
+    display: block;
+    padding: 10px;
+
+}
+.contact-yellow {
+    color: yellow;
+    display: block;
+    padding: 10px;
 }

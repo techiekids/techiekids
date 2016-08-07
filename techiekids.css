@@ -1,0 +1,24 @@
+html, body, h1, h2, p, ol {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    margin-bottom:10px;
+
+}
+body {
+    background-color: black;
+    color: aqua;
+    font-family: Helvetica, cursive, sans-serif;
+}
+.header{
+    text-align: center;
+    background-color: #b56663;
+    color: darkgray;
+}
+h1{
+    padding: 10px 0 10px 0;
+}

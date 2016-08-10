@@ -20,11 +20,12 @@ body{
 h2{
 padding-left: 500px;
 
-color:#00997a ;
+color: sandybrown;
 }
 a{
     display: inline;
     color: white;
+    padding-top: 500px;
 }
 h1{
     background: #9900cc;

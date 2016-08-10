@@ -6,16 +6,16 @@ color: lightpink;
     display: inline;
 }
 ol{
-color: #006600;
-    padding-left: 500px
+color: gold;
+    padding-left: 500px;
 }
 ul{
-color: #006600;
-     padding-left: 500px
+color: gold;
+     padding-left: 500px;
 }
 body{
-    background-image:url(electron.gif);
-    background-size: 1050px 1000px;
+    background-image:url(crystal.gif);
+    background-size: 2000px 1050px;
 }
 h2{
 padding-left: 500px;

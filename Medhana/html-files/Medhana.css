@@ -1,0 +1,31 @@
+h1{
+color:paleturquoise;
+}
+p{
+color: lightpink;
+    display: inline;
+}
+ol{
+color: gold;
+    padding-left: 500px;
+}
+ul{
+color: gold;
+     padding-left: 500px;
+}
+body{
+    background-image:url(color-wheel.gif);
+}
+h2{
+padding-left: 500px;
+
+color: sandybrown;
+}
+a{
+    display: inline;
+    color: white;
+    padding-top: 500px;
+}
+h1{
+    background: #9900cc;
+}

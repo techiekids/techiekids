@@ -3,12 +3,10 @@ ul.members li{
     margin: 10px;
 }
 body{
-    background-color: aqua;
-    color: white;
-    background-image: url(abhi/images/keys.jpg);
-    width: 500px;
+    background-color: black;
+    width: 1000px;
     font-size: 28px;
-    color: lawngreen;
+    color: #FD5F00;
     margin:auto;
     font-family: monospace;
 }
@@ -18,12 +16,13 @@ a{
 ul{
     list-style:none;
 }
-.Codeschool{
-    color: lawngreen;
-}
+
 h1{
-    background-color: deepskyblue;
+    /*background-color: deepskyblue;*/
 }
 footer{
     font-size: 16px;
+}
+marquee{
+    color: cyan;
 }

@@ -1,11 +1,11 @@
 h1 {
   color :#b300b3;
-   background:white;
+
 }
 
 h2 {
    font-size : 28px;
-   color : 00ffff;
+   color :00e6e6;
 }
 p{
   color:e6b3ff
@@ -13,6 +13,5 @@ p{
 body{
   color:cc66ff;
   background:white;
-  background-image: url(backgrond.jpg);
+  background-image: url(bimage.jpg);
     background-size: 1300px 1000px
-}

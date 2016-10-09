@@ -1,0 +1,29 @@
+ul.members li{
+    display: inline;
+    margin: 10px;
+}
+body{
+    background-color: aqua;
+    color: white;
+    background-image: url(abhi/images/keys.jpg);
+    width: 500px;
+    font-size: 28px;
+    color: lawngreen;
+    margin:auto;
+    font-family: monospace;
+}
+a{
+    color: deeppink;
+}
+ul{
+    list-style:none;
+}
+.Codeschool{
+    color: lawngreen;
+}
+h1{
+    background-color: deepskyblue;
+}
+footer{
+    font-size: 16px;
+}

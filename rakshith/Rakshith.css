@@ -8,27 +8,32 @@ html, body, h1, h2, p, ul, ol {
 h1 {
   text-align: center;
     color: white;
-    padding-bottom: 7px;
-    font-size: 24px:
+    padding-bottom: 10px;
+    font-size: 30px;
+        font-weight: bold;
 }
 p{
   color: orange;
 }
 h2{
-    text-decoration: underline;
+    text-decoration: none;
     border-bottom: 1px solid #CCCCCC;
-    color:yellow;
-background-repeat: no-repeat;
+    color:white;
+
+    font-size: 25px;
 }
 body{
+background-image: url(Assets/lights.gif);
+font-family: Helvetica,Damascus;
+background-repeat: repeat;
+    color:white;
 
-font-family: Helvetica,Damascus
 }
 ol{
-    color:orangered
+    color:orangered;
 }
 ul{
-    color:orangered
+    color:orangered;
 }
 .header{
     padding: 10px 10px 10px 10px;
@@ -37,6 +42,7 @@ ul{
 .header a{
     text-decoration: none;
     color: white;
+    font-size: 15px;
 }
 input{
     font-size: 24px;
@@ -44,4 +50,48 @@ input{
 label{
     font-size: 24px;
 }
+.games a{
+    text-decoration:none;
+    color:red;
+}
+.movies a{
+    text-decoration: none;
+    color: red;
+}
+textarea{
+    width: 500px;
+    height: 400px;
+    font-size: 20px;
+}
+.Contact label{
+    border-bottom: 12px;
+}
+.movies-yellow {
+    color: yellow;
+    display: block;
+padding: 10px;
+}
+.hobbies-yellow {
+    color: yellow;
+    display: block;
+padding: 10px;
+}
+.games-yellow {
+    color: yellow;
+    display: block;
+padding: 10px;
+}
+.books-yellow {
+    color: yellow;
+    display: block;
+    padding: 10px;
 
+}
+.contact-yellow {
+    color: yellow;
+    display: block;
+    padding: 10px;
+}
+.hyperlink-loader{
+    color: white
+}

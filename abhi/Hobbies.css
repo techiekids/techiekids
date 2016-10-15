@@ -1,8 +1,10 @@
 .hobbies{
      width: 800px;
+    color: azure;
     border : 2px dashed;
     margin: 5px auto 20px auto;
     padding: 0px 0px 10px 10px;
     font-size: 14pt;
     background-color: #e6f0ff;
+    background-image: url(images/spiral.gif);
 }

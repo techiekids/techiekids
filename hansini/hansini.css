@@ -1,0 +1,17 @@
+h1 {
+  color :#b300b3;
+
+}
+
+h2 {
+   font-size : 28px;
+   color :00e6e6;
+}
+p{
+  color:e6b3ff
+}
+body{
+  color:cc66ff;
+  background:white;
+  background-image: url(bimage.jpg);
+    background-size: 1300px 1000px

@@ -18,7 +18,7 @@ h3{
 body {
     width: 800px;
     margin: 40px auto 10px auto;
-    background: url(lined_paper.png) top left repeat;
+    background-color: black;
     font-family: cursive;
 }
 .header img {
@@ -31,7 +31,6 @@ body {
     padding: 15px;
     width: 450px;
     margin: 0 auto;
-    border-color: aqua
 }
 .nav{
     padding: 0;

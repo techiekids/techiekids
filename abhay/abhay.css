@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: deepskyblue
+}
+
+.heading {
+    color:aquamarine
+}
+
+p {
+    text-align:center;
+    padding-left: 100px;
+    color:aliceblue;
+    border-style: solid; border-width:medium; border-color: #FFFFFF;
+    border-style:ridge;
+    border-color:firebrick;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px
+    font-style: oblique
+
+}
+
+body {
+    background-image: url("http://4.bp.blogspot.com/-JvdMJvWXAqw/UZo2i8uHBsI/AAAAAAAAA9g/ocXl0qetuPI/s1600/vandrie_fire.gif");
+}
+
+h2 {
+    margin-left: 40px;
+    color:gold
+}
+
+li {
+    margin-left: 50px;
+    color: aquamarine
+    }

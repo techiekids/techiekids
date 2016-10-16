@@ -1,27 +1,97 @@
 html, body, h1, h2, p, ul, ol {
     margin: 0 0 0 0;
     padding: 0 0 0 0;
+    font-size: 100%;
+    font:inherit;
 }
 
 h1 {
-  color:forestgreen
+  text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 30px;
+        font-weight: bold;
 }
 p{
   color: orange;
 }
 h2{
-    text-decoration: underline;
+    text-decoration: none;
     border-bottom: 1px solid #CCCCCC;
-    color:yellow;
-background-repeat: no-repeat;
+    color:white;
+
+    font-size: 25px;
 }
 body{
-    background-image:url(html_pictures/Earth.png)
+background-image: url(Assets/lights.gif);
+font-family: Helvetica,Damascus;
+background-repeat: repeat;
+    color:white;
 
 }
 ol{
-    color:orangered
+    color:orangered;
 }
 ul{
-    color:orangered
+    color:orangered;
+}
+.header{
+    padding: 10px 10px 10px 10px;
+    background-color: #b56663;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+input{
+    font-size: 24px;
+}
+label{
+    font-size: 24px;
+}
+.games a{
+    text-decoration:none;
+    color:red;
+}
+.movies a{
+    text-decoration: none;
+    color: red;
+}
+textarea{
+    width: 500px;
+    height: 400px;
+    font-size: 20px;
+}
+.Contact label{
+    border-bottom: 12px;
+}
+.movies-yellow {
+    color: yellow;
+    display: block;
+padding: 10px;
+}
+.hobbies-yellow {
+    color: yellow;
+    display: block;
+padding: 10px;
+}
+.games-yellow {
+    color: yellow;
+    display: block;
+padding: 10px;
+}
+.books-yellow {
+    color: yellow;
+    display: block;
+    padding: 10px;
+
+}
+.contact-yellow {
+    color: yellow;
+    display: block;
+    padding: 10px;
+}
+.hyperlink-loader{
+    color: white
 }

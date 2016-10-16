@@ -1,0 +1,45 @@
+ul.members li{
+    display: inline;
+    margin: 10px;
+}
+body{
+    background-color: black;
+    width: 1000px;
+    font-size: 28px;
+    color: #FD5F00;
+    margin:auto;
+    font-family: monospace;
+}
+a{
+    color: deeppink;
+}
+ul{
+    list-style:none;
+}
+
+h1{
+    /*background-color: deepskyblue;*/
+}
+footer{
+    font-size: 16px;
+}
+marquee{
+    color: cyan;
+}
+
+figcaption {
+    display: inline;
+}
+
+img
+{
+transform:rotate(90deg);
+}
+
+.group_pic{
+   transform:rotate(360deg);
+}
+
+.sahil_picture {
+    transform:rotate(0deg);
+}

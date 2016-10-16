@@ -1,0 +1,21 @@
+body {
+   background-image : url(SravyaPicture.jpg);
+   text-align: center;
+
+
+}
+
+h1 {
+   color : #ff0080;
+    font-size: 60px;
+}
+
+p {
+  color : lightblue;
+  font-size: 35px;
+}
+a {
+    color:dodgerblue;
+    font-size: 30px;
+}
+

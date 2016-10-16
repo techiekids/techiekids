@@ -14,7 +14,8 @@ h1{
 body{
     background :white;
     margin-top: 30px;
-    background-image: url(images/bootman.jpg)
+    background-image: url(images/bootman.jpg);
+    background: rgba(76, 175, 80, 1.0);
 }
 
 p{

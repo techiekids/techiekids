@@ -1,0 +1,13 @@
+h1 {
+    color: hotpink;
+    font-size: 50px;
+}
+body {
+    text-align: center;
+    background-image: url(final.jpg);
+}
+li {
+    color: mediumorchid;
+    font-size: 35px;
+    list-style-type: none;
+}

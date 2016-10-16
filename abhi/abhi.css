@@ -14,11 +14,8 @@ h1{
 body{
     background :white;
     margin-top: 30px;
-<<<<<<< HEAD
-    background-image: url(images/batmand.gif)
-=======
-    background-image: url(images/Harry.jpg)
->>>>>>> origin/master
+    background-image: url(images/bootman.jpg);
+    background: rgba(76, 175, 80, 1.0);
 }
 
 p{

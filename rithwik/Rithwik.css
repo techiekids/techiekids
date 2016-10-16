@@ -1,9 +1,12 @@
 html, body, h1, h2, h3, p, ul, ol{
     margin: 0 0 0 0;
     padding: 0 0 0 0;
+
 }
 h1{
-    color:chartreuse
+    color:#0044FF;
+    margin: 15px 0 15px;
+    text-align: center;
 }
 h2{
     color:cornflowerblue
@@ -15,4 +18,28 @@ h3{
 body {
     width: 800px;
     margin: 40px auto 10px auto;
+    background: url(lined_paper.png) top left repeat;
+    font-family: cursive;
+}
+.header img {
+    margin: 0 auto 15px auto;
+    display: block;
+    width: 445px;
+
+}
+.content-section {
+    padding: 15px;
+    width: 450px;
+    margin: 0 auto;
+}
+.nav{
+    padding: 0;
+    text-align: center;
+}
+.nav li{
+    display: inline;
+    padding-right: 20px;
+}
+li {
+    margin-bottom: 5px;
 }

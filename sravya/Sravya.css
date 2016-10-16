@@ -1,8 +1,10 @@
 body {
    background-image : url(SravyaPicture.jpg);
    text-align: center;
+}
 
-
+.gotohome {
+    text-align: left;
 }
 
 h1 {
